@@ -1,5 +1,5 @@
 # community-training-material
-Repo to share openBIS training material used in different institutions.
+Repository for sharing openBIS training material used in different institutions.
 
 This is a space where openBIS community members can share their openBIS training material.
 
